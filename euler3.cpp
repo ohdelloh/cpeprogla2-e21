@@ -6,7 +6,6 @@ int main()
 {
 	ifstream f("input.txt");
 	int num,sum=0;
-	int hashmat,opponent;
 	FILE  *fp;
     fp = fopen("input.txt","r");
 
